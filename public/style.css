@@ -1,0 +1,7 @@
+#facetable{
+    border: 1px solid black;
+    width: 62%;
+    height: 600px;
+    overflow: scroll;
+    margin: 0 auto;
+  }
